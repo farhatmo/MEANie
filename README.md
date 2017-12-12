@@ -24,10 +24,3 @@ $ npm i
 We welcome pull requests from the community!
 ## License
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](/LICENSE.md)
-<style>
-pre:nth-letter(3) {
-  color: red;font-family: "Comic Sans MS";
-  font-size: 3em;
-  font-weight: bold;
-}
-</style>
