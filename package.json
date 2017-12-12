@@ -1,0 +1,11 @@
+{
+  "scripts": {
+	"start": "run-p start:front start:back",
+	"start:front": "cd Angular && npm start",
+	"start:back": "cd Riess.js/server && npm start"
+  },
+  "devDependencies": {
+	"lerna": "^2.5.1",
+	"npm-run-all": "^4.1.2"
+  }
+}
