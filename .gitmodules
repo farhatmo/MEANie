@@ -1,6 +1,3 @@
 [submodule "Angular"]
 	path = Angular
 	url = https://github.com/weareopensource/Angular.git
-[submodule "Riess.js"]
-	path = Riess.js
-	url = https://github.com/lirantal/Riess.js.git
