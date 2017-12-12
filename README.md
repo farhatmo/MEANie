@@ -1,6 +1,5 @@
 # MEANie
 [![Build Status](https://travis-ci.org/weareopensource/meanjs-2.svg?branch=master)](https://travis-ci.org/weareopensource/meanjs-2)
-## Angular 5 / material / ngRx Starter 
 
 ## Presentation 
 [Angular Startkicker](https://github.com/weareopensource/Angular) / [Riess.js](https://github.com/weareopensource/Riess.js) combo. This is a prefiguring MEAN 2 project on active development.
