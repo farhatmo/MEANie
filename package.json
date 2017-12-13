@@ -3,6 +3,7 @@
 	"postinstall" : "lerna bootstrap",
 	"start": "run-p start:front start:back",
 	"start:front": "cd Angular && npm start",
+	"start:front:prod": "cd Angular && npm run start:prod",
 	"start:back": "cd Riess.js/server && npm start"
   },
   "devDependencies": {
